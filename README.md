@@ -240,9 +240,11 @@ preferences, they may add it to their local
 library. Over time, users may add more
 songs and rely on KKBox’s recommendation algorithm, which effectively introduces them to
 new music that fits their tastes.
+
 **Ethical Considerations**: Analyzing users' listening behavior involves personal data and risks
 their privacy, especially if used without explicit consent. Obtaining clear user consent before
 collecting and using data is crucial.
+
 **Risk**: One potential risk is a lack of diversity in music recommendations. If we only suggest
 similar songs, users may be limited to their existing preferences, reducing opportunities to
 explore new content and ultimately lowering long-term engagement. We can incorporate
